@@ -1,0 +1,38 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/tests-proxy/package.js": "cbe5a6246b033154ecec204d7932c937f675a68e"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/tests-proxy/package.js": "cbe5a6246b033154ecec204d7932c937f675a68e",
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/tests-proxy/tests/jasmine/client/integration/postButtonSpecs.js": "373008dbf8d17939a488fb004b9a4ab31e70746c"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/tests-proxy/package.js": "cbe5a6246b033154ecec204d7932c937f675a68e",
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/tests-proxy/tests/jasmine/client/integration/postButtonSpecs.js": "373008dbf8d17939a488fb004b9a4ab31e70746c"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/tests-proxy/package.js": "cbe5a6246b033154ecec204d7932c937f675a68e"
+    },
+    "directories": []
+  },
+  "source": "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/tests-proxy",
+  "buildTimeDirectDependencies": {
+    "coffeescript": "1.0.4",
+    "meteor": "1.1.3"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

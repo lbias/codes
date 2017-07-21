@@ -1,0 +1,24 @@
+{
+  "isopack-1": {
+    "name": "local-test:meteor-book:reactive-timer",
+    "summary": "A simple timer object, which can re-run reactive functions based on an interval",
+    "version": "0.0.1+dac55f44844c4a003cd0b4e9fa97917450d9d59c",
+    "earliestCompatibleVersion": "0.0.0",
+    "isTest": true,
+    "builds": [
+      {
+        "arch": "os",
+        "path": "os.json"
+      },
+      {
+        "arch": "web.browser",
+        "path": "web.browser.json"
+      },
+      {
+        "arch": "web.cordova",
+        "path": "web.cordova.json"
+      }
+    ],
+    "plugins": []
+  }
+}

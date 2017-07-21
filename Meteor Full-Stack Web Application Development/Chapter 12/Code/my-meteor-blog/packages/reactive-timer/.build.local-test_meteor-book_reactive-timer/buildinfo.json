@@ -1,0 +1,39 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/reactive-timer/package.js": "6f9ee566097bbb2ce51e26b393bf9e7bb93a7332"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/reactive-timer/package.js": "6f9ee566097bbb2ce51e26b393bf9e7bb93a7332",
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/reactive-timer/tests/tests.js": "996aef9b946c4bc8108e298d321a66ed92208271"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/reactive-timer/package.js": "6f9ee566097bbb2ce51e26b393bf9e7bb93a7332",
+        "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/reactive-timer/tests/tests.js": "996aef9b946c4bc8108e298d321a66ed92208271"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/reactive-timer/package.js": "6f9ee566097bbb2ce51e26b393bf9e7bb93a7332"
+    },
+    "directories": []
+  },
+  "source": "/Users/frozeman/Dropbox/Documents/Writing Single Page Apps using Meteor/Book - 1st Draft/Chapter 12/Code/my-meteor-blog/packages/reactive-timer",
+  "buildTimeDirectDependencies": {
+    "meteor-book:reactive-timer": "0.0.1+1a15ea32c1d0751cead7248c4796e8da79a3a694",
+    "meteor": "1.1.3",
+    "tinytest": "1.0.3"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

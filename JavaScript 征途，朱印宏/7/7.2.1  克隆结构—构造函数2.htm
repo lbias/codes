@@ -1,0 +1,12 @@
+<script language="javascript" type="text/javascript">
+
+function F(){	//构造函数
+    this.x = 1; 	//定义属性x
+    return { y : 2 };	//返回对象直接量
+}
+var f = new F();	//实例化构造函数
+alert(f.x);	//没有找到x属性值
+alert(f.y); 	//返回2
+
+
+</script>

@@ -1,0 +1,15 @@
+<script language="javascript" type="text/javascript">
+
+function f(){	//定义函数类结构
+    this.a ="a";	//定义成员a并赋值，a为属性
+    this.b = function(){	//定义成员b并赋值，b为方法
+        alert("b");
+    }
+}
+function e(){	//定义函数
+    f.call(this); 	//在函数体内动态调用函数f，this指代函数e
+    alert(a); 	//显示变量a的值
+}
+e()	//返回字符串a
+
+</script>

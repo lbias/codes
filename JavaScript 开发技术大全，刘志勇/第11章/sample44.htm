@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>返回数组中元素之和</title>
+		<meta http-equiv="content-type" content="text/html;charset=gb2312">
+		<script language="javascript1.8">
+		<!--		
+			//创建求和函数
+			function mySum(x,y,index,arr)
+			{
+				i++;
+				document.write("第",i,"次调用：上一个数为：",x,",当前数为：",y,",数组下标为：",index,"，数组为：",arr,"<br>");
+				return x+y;
+			}
+			
+			//创建一个数组
+			var myArr = [2,4,9,1];
+			var i = 0;
+			document.write("数组[",myArr,"]中的元素之和为：",myArr.reduce(mySum));
+		-->
+		</script>
+	</head>
+	<body>
+	</body>
+</html>

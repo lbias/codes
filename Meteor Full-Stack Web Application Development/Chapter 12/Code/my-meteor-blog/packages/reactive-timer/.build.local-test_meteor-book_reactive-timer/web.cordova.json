@@ -1,0 +1,25 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "meteor-book:reactive-timer"
+    },
+    {
+      "package": "tinytest"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "web.cordova/packages/local-test:meteor-book:reactive-timer.js",
+      "length": 2925,
+      "offset": 0,
+      "servePath": "/packages/local-test:meteor-book:reactive-timer.js",
+      "sourceMap": "web.cordova/packages/local-test:meteor-book:reactive-timer.js.map"
+    }
+  ]
+}

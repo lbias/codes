@@ -1,0 +1,13 @@
+<script language="javascript" type="text/javascript">
+
+var s = "a\nb\nc";
+var r = /\w+$/g; 	//默认为单行匹配
+var a = s.match(r); 	//返回数组["c"]
+
+
+var s = "a\nb\nc";
+var r = /\w+$/gm; 	//启动多行匹配
+var a = s.match(r); 	//返回数组["a", "b", "c"]
+
+
+</script>

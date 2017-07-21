@@ -1,0 +1,15 @@
+<script language="javascript" type="text/javascript">
+
+
+function f(x, y){
+    function e(a, b){
+        return a * b;
+    }
+	alert(e(3, 6)); 	
+    return e(3, 6) + y; 	//内层函数参与表达式运算有效
+	alert(e(3, 6)); 	//无效的调用
+}
+alert(f(3, 6)); 	//调用外层函数
+
+
+</script>

@@ -1,0 +1,24 @@
+{
+  "name": "velocity:test-proxy",
+  "summary": "Dynamically created package to expose test files to mirrors",
+  "version": "0.0.4+ed4b0a66f83bd327aeaf183c170b4e72bb21d5cd",
+  "earliestCompatibleVersion": "0.0.0",
+  "isTest": false,
+  "plugins": [],
+  "debugOnly": true,
+  "unibuilds": [
+    {
+      "arch": "os",
+      "path": "os.json"
+    },
+    {
+      "arch": "web.browser",
+      "path": "web.browser.json"
+    },
+    {
+      "arch": "web.cordova",
+      "path": "web.cordova.json"
+    }
+  ],
+  "format": "unipackage-pre2"
+}

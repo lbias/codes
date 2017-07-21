@@ -1,0 +1,19 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "os/packages/local-test:meteor-book:reactive-timer.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/local-test:meteor-book:reactive-timer.js",
+      "sourceMap": "os/packages/local-test:meteor-book:reactive-timer.js.map"
+    }
+  ]
+}

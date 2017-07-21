@@ -1,0 +1,11 @@
+<script language="javascript" type="text/javascript">
+
+var b = String.fromCharCode( 35835, 32773, 24744, 22909 ) ; 	//传递多个参数，返回字符串"读者您好"
+
+
+var a = [35835, 32773, 24744, 22909], b = [];
+var b = String.fromCharCode.apply( null, a ); //使用apply()方法调用fromCharCode()方法，并传递数组参数
+alert( b ); 	//返回字符串"读者您好"
+
+
+</script>
