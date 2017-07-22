@@ -11,3 +11,6 @@
 
 ## Meteor
 - Meteor Full-Stack Web Application Development
+
+## Rails
+- Rails, Angular, Postgres, and Bootstrap, 2017, David B. Copeland
